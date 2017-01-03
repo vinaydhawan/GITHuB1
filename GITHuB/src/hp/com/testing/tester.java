@@ -7,7 +7,6 @@ public class tester{
 	public void hello(){
 		System.out.println("My First Test case");
 		System.out.println("My Second Test case");
-		System.out.println("My first change");
 		//test 1234
 		//test
 	}
