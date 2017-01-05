@@ -8,4 +8,7 @@ public void function2(){
 	//hellos function2
 	
 }
+public void function3(){
+	
+}
 }
