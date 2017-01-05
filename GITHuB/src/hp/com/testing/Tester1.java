@@ -11,4 +11,8 @@ public void function2(){
 public void function3(){
 	
 }
+public void function4(){
+	
+}
+
 }
